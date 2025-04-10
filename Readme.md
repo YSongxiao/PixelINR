@@ -1,4 +1,4 @@
 # Official Implementation of PixelINR
 
-# Settings
-# To be continue...
+### Settings
+To be continue...
